@@ -5,5 +5,5 @@ This project includes the following files
 
 1. chenDBpicture.jpg - A picture of my handwritten Chen style ER diagram
 2. projectdocumentation.pdf - A reflection of how and why I selected the entities and relationships I did for my database
-3. breweryDB.mwb - MySQL Workbench template for my database. My UML ER diagram is here as well.
+3. breweryDB.mwb - MySQL Workbench template for my database. My UML EER diagram is here as well.
 4. breweryScript.sql - SQL script for creating, using and testing my database
