@@ -1,4 +1,4 @@
-# CIS344Project1
+# CIS344Project1 by Gabriel Gomez
 First individual project for CIS 344. A craft brewery database. 
 
 This project includes the following files
